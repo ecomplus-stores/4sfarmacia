@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
+    "text": "CLICK AQUI E GANHE UM DESCONTO ESPECIAL",
     "link": "/promotion",
     "background": "#ff6400"
   },
@@ -15,8 +15,8 @@
         "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
-    "phone_wpp": true,
-    "socials": true
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
     "featured": [],
