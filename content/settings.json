@@ -1,24 +1,24 @@
 {
-  "store_id": 17005,
-  "name": "4sfarmacia",
   "domain": "4sfarmacia.netlify.app",
-  "short_name": "4sfarmacia",
-  "description": "4sfarmacia",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#f78502",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#b8310f",
+  "repository": "ecomplus-stores/4sfarmacia",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "LOJA CALENDULA",
+  "short_name": "CALÊNDULA",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/4sfarmacia"
+  "secondary_color": "#d0c65d",
+  "icon": "/img/icon.png",
+  "store_id": 17005,
+  "description": "4sfarmacia",
+  "large_icon": "/img/large-icon.png"
 }
