@@ -1,9 +1,9 @@
 {
-  "domain": "4sfarmacia.netlify.app",
+  "domain": "lojacalendula.com.br",
   "currency_symbol": "R$",
   "primary_color": "#f78502",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "united",
     "custom": "_"
   },
   "bg_color": "#b8310f",
@@ -14,11 +14,11 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/logo-calendula-horizontal.png",
   "country_code": "BR",
   "secondary_color": "#d0c65d",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/logo-calendula-vertical.png",
   "store_id": 17005,
-  "description": "Instalações modernas, equipe técnica qualificada, atendimento excepcional! Tudo reunido em um só lugar! ",
-  "large_icon": "/img/large-icon.png"
+  "description": "FARMÁCIA DE MANIPULAÇÃO - PRODUTOS COM QUALIDADE, SEGURANÇA E PRATICIDADE, VOCÊ ENCONTRA AQUI.",
+  "large_icon": "/img/uploads/logo-calendula-vertical.png"
 }
