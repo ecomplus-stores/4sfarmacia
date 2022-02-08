@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#f78502",
   "theme": {
-    "bootswatch": "united",
-    "custom": "_"
+    "bootswatch": "lumen",
+    "custom": "clean-white"
   },
   "bg_color": "#b8310f",
   "repository": "ecomplus-stores/4sfarmacia",
