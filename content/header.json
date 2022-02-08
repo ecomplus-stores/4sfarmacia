@@ -26,8 +26,8 @@
       "/beleza-e-estetica?BELEZA E ESTÉTICA",
       "/emagrecimento?EMAGRECIMENTO"
     ],
-    "random": 6,
-    "full_width": false
+    "random": 12,
+    "full_width": true
   },
   "search_input": true
 }
