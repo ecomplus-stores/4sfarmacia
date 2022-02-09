@@ -14,12 +14,13 @@
           "end": "2020-12-31T03:00:00.000Z"
         },
         {
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/2h3a1300.jpg",
           "alt": "Banner sample two",
           "start": "",
-          "end": ""
+          "end": "2022-02-12T13:03:03.350Z"
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "info-bar",
