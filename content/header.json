@@ -1,8 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "CLICK AQUI E GANHE UM DESCONTO ESPECIAL",
-    "link": "/promotion",
-    "background": "#ff6400"
+    "text": "ENVIE SUA RECEITA CLICANDO AQUI",
+    "link": "https://api.whatsapp.com/send?phone=5573991157694&text=Ol%C3%A1.%20Quero%20enviar%20minha%20receita%20para%20or%C3%A7amento",
+    "background": "#e4c820",
+    "color": "#df0a0a"
   },
   "contacts_stripe": {
     "pages": [
@@ -16,10 +17,10 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-    ],
+    "featured": [],
     "random": 12,
     "full_width": true
   },
-  "search_input": true
+  "search_input": true,
+  "desktop_megamenu": true
 }
