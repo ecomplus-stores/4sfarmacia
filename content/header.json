@@ -2,7 +2,7 @@
   "marketing_stripe": {
     "text": "ENVIE SUA RECEITA CLICANDO AQUI",
     "link": "https://api.whatsapp.com/send?phone=5573991157694&text=Ol%C3%A1.%20Quero%20enviar%20minha%20receita%20para%20or%C3%A7amento",
-    "background": "#e4c820",
+    "background": "#0aef1f",
     "color": "#0b0b0b"
   },
   "contacts_stripe": {
